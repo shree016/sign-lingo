@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Virtual environment
+venv/
+
+# Dataset — too large for Git
+data/raw/
+
+# Trained model files
+model/
+
+# Environment variables
+.env
